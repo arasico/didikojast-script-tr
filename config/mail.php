@@ -86,7 +86,7 @@ return [
 
     'username' => env('MAIL_USERNAME','info@didikojast.ir'),
 
-    'password' => env('MAIL_PASSWORD','Iranian5510'),
+    'password' => env('MAIL_PASSWORD','test'),
 
     /*
     |--------------------------------------------------------------------------
